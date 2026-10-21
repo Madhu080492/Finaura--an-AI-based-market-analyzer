@@ -1,0 +1,2 @@
+rows,columns,date_start,date_end,missing_values,duplicate_rows,mean_close,min_close,max_close,mean_daily_return,return_std,min_daily_return,max_daily_return,mean_volatility,max_volatility,mean_future_volatility,max_future_volatility
+2331,24,2017-03-15,2026-08-26,0,0,16649.199948553465,7610.25,26328.55078125,0.00047420717800578983,0.010330035353662547,-0.1298046607047124,0.0876321046711503,0.12918301117363853,1.335954152259575,0.12918301117363853,1.335954152259575

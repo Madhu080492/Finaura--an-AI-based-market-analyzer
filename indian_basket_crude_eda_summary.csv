@@ -1,0 +1,2 @@
+rows,columns,date_start,date_end,missing_values,duplicate_rows,mean_crude_price,min_crude_price,max_crude_price,mean_crude_return,return_std,mean_volatility,max_volatility
+299,19,2001-04-01,2026-02-01,0,0,67.45050380059693,18.24,132.47124826086957,0.008105596763551586,0.0938710344689577,0.08336146920542128,0.2653764688646927

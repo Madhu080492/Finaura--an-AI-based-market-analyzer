@@ -1,0 +1,12 @@
+metric,value
+number_of_rows,2319
+number_of_columns,24
+start_date,2017-03-15 00:00:00
+end_date,2026-08-31 00:00:00
+average_vix,16.509887868034888
+median_vix,14.779999732971191
+maximum_vix,83.61000061035156
+minimum_vix,9.149999618530272
+average_rolling_volatility,0.7741455041739282
+average_future_5d_volatility,0.7168192834909101
+90th_percentile_vix,22.72399940490723

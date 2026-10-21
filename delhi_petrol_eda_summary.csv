@@ -1,0 +1,2 @@
+rows,columns,date_start,date_end,missing_values,duplicate_rows,mean_petrol_price,min_petrol_price,max_petrol_price,mean_petrol_return,return_std,mean_volatility,max_volatility
+3341,17,2017-07-16,2026-09-07,0,0,87.92450164621371,64.11,110.04,0.00014409911678609476,0.0029119096864022565,0.020172198405055547,0.2936491917784953

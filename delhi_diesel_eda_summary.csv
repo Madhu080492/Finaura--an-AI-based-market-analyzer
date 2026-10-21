@@ -1,0 +1,2 @@
+rows,columns,date_start,date_end,missing_values,duplicate_rows,mean_diesel_price,min_diesel_price,max_diesel_price,mean_diesel_return,return_std,mean_volatility,max_volatility
+3341,17,2017-07-16,2026-09-07,0,0,80.15505537264293,54.93,98.42,0.0001737290183645921,0.004117936509757867,0.0016231768882488738,0.0223478786761076

@@ -1,0 +1,13 @@
+metric,value
+number_of_rows,2380
+number_of_columns,24
+start_date,2017-03-15 00:00:00
+end_date,2026-08-31 00:00:00
+average_gold_price,2097.873400930196
+median_gold_price,1821.3999633789062
+maximum_gold_price,5318.39990234375
+minimum_gold_price,1176.199951171875
+average_daily_return,0.000605674879461261
+average_rolling_volatility,0.1535970802364365
+average_future_5d_volatility,0.1444726653757989
+maximum_drawdown,-0.250601652594825
